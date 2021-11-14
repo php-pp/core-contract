@@ -68,4 +68,5 @@ initLog
 updateReleaseBadge
 updateCodeLinesBadge
 updateComposerRequire
-updateChangelog
+# https://github.com/php-pp/core-contract/issues/3
+#updateChangelog
